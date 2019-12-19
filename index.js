@@ -6,7 +6,7 @@ exports.OpusEncoder = OpusEncoder;
 
 var oggPacket = true;
 try {
-    require( "ogg-packet" );
+    require( "@suldashi/ogg-packet" );
 } catch( ex ) {
     oggPacket = false;
 }

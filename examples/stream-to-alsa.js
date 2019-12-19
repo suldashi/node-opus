@@ -4,7 +4,7 @@
 
 var fs = require('fs');
 var opus = require('node-opus');
-var ogg = require('ogg');
+var ogg = require('@suldashi/ogg');
 var cp = require('child_process');
 
 var oggDecoder = new ogg.Decoder();

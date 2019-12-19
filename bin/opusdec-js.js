@@ -3,7 +3,7 @@
 "use strict";
 
 var opus = require('../');
-var ogg = require('ogg');
+var ogg = require('@suldashi/ogg');
 var fs = require('fs');
 var program = require('commander');
 var packagejson = require('../package.json');

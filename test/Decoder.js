@@ -1,5 +1,5 @@
 
-var ogg = require( 'ogg' );
+var ogg = require( '@suldashi/ogg' );
 var util = require( 'util' );
 var opus = require( '../' );
 var path = require( 'path' );

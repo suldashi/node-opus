@@ -1,5 +1,5 @@
 
-var ogg = require( 'ogg' );
+var ogg = require( '@suldashi/ogg' );
 var opus = require( '../../' );
 
 var oggDecoder = new ogg.Decoder();

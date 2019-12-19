@@ -4,7 +4,7 @@
 var fs = require( 'fs' );
 var lame = require( 'lame' );
 var opus = require( '../' );
-var ogg = require( 'ogg' );
+var ogg = require( '@suldashi/ogg' );
 
 var opusFile = fs.createWriteStream( 'test.opus' );
 
