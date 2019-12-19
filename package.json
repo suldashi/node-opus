@@ -1,7 +1,7 @@
 {
   "name": "@suldashi/node-opus",
   "description": "NodeJS native binding to OPUS. Fixed dependencies to enable compilation in Node 12.",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "author": "Mikko Rantanen <jubjub@jubjubnest.net>",
   "homepage": "https://github.com/suldashi/node-opus",
   "bugs": "https://github.com/suldashi/node-opus/issues",
