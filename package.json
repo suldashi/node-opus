@@ -36,12 +36,12 @@
     "nan": "^2.14.0"
   },
   "optionalDependencies": {
-    "@suldashi/ogg-packet": "^1.0.2"
+    "@suldashi/ogg-packet": "^1.0.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^5.2.0",
-    "@suldashi/ogg": "^1.2.7",
+    "@suldashi/ogg": "^1.2.9",
     "stream-equal": "^1.0.0"
   }
 }
